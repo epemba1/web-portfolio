@@ -8,8 +8,10 @@ import Works from "./components/Works";
 
 function App() {
   return (
+
     <div>
       <Navbar />
+//div
       <Home />
       <About />
       <Skills />

@@ -13,6 +13,9 @@
         @apply cursor-pointer;
     }
 }
+.contant{
+    height:280px;
+}
 
 .content-div {
     background-repeat: no-repeat;

@@ -1,10 +1,8 @@
 import React, { useState } from 'react';
-import { FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook, FaTwitter } from 'react-icons/fa';
-import { HiOutlineMail } from 'react-icons/hi';
+import { FaBars, FaTimes, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { BsPersonFill } from 'react-icons/bs';
-import Logo from '../assets/logo1.png';
 import { Link } from 'react-scroll';
-import { eric } from '../assets/eric.jpg'; 
+
 
 
 const Navbar = () => {
@@ -27,9 +25,9 @@ const Navbar = () => {
   ];
 
   return (
-    <div className='fixed w-full h-20 flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
+    <div className='fixed w-full h-20 flex justify-between items-center px-4 bg-[#0a192f] text-gray-300 '>
       <div>
-      <p className='text-pink-600 text-2xl cursor-pointer'>{'<Pemba Eric/>'}</p>
+      <p className='text-pink-600 text-2xl '>{'<Pemba Eric/>'}</p>
       </div>
 
       {/* Menu */}
