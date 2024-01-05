@@ -1,7 +1,8 @@
 import React from 'react';
 
-import youtube from '../assets/youtube1.jpg';
-import brucelee from '../assets/brucelee.jpg';
+import youtube from '../assets/youtube.jpg';
+import amazon from '../assets/amazon.jpg';
+
 
 const Works = () => {
   return (
@@ -40,13 +41,13 @@ const Works = () => {
           </div>
 
 
-          <div style={{ backgroundImage: `url(${youtube})` }}
+          <div style={{ backgroundImage: `url(${amazon})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Amazon Clone
               </span>
               <div className='pt-8 text-center'>
                 <a href="/">
