@@ -2,6 +2,7 @@ import React from 'react';
 
 import youtube from '../assets/youtube.jpg';
 import amazon from '../assets/amazon.jpg';
+import game from '../assets/game.jpg';
 
 
 const Works = () => {
@@ -65,7 +66,7 @@ const Works = () => {
           </div>
 
 
-          <div style={{ backgroundImage: `url(${youtube})` }}
+          <div style={{ backgroundImage: `url(${game})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* Hover Effects */}
