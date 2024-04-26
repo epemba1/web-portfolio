@@ -16,7 +16,7 @@ const Home = () => {
         <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm currently in the second year of my master's. I'm focused on building responsive full-stack web applications</p>
         <div>
           <button className='text-white group border-2  px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600 rounded'>
-            View Work
+            View Project
             <span className='group-hover:rotate-90 duration-300'>
               <HiArrowNarrowRight className='ml-3 ' />
             </span>
