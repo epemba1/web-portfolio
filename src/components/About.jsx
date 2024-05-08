@@ -16,8 +16,8 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-business all the way to large enterprise corporations.
-              What would you do if you had a software expert available at your fingertips!?
+              I'm passionate about refining my skills and contributing to the world of software development. I specialize in creating impactful software solutions that elevate user experiences. 
+              With a focus on front-end development, I'm eager to collaborate on projects that range from individual endeavors to small businesses and beyond. Imagine having a dedicated developer at your service—what exciting projects could we embark on together?
             </p>
           </div>
         </div>
