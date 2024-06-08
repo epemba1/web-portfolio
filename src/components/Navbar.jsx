@@ -46,7 +46,7 @@ const Navbar = () => {
         {!nav ? <FaBars /> : <FaTimes />}
       </div>
 
-      {/* Mobile menu */}
+      {/* Mobile-menu */}
       <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
         {navItems.map((item, index) => (
           <li key={index} className='py-6 text-4xl'>
