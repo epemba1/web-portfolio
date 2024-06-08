@@ -57,7 +57,7 @@ const Navbar = () => {
         ))}
       </ul>
 
-      {/* Social Icons */}
+      {/* Social-Icons */}
       <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
         <ul>
           {socialIcons.map((icon, index) => (
