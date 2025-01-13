@@ -51,7 +51,7 @@ const Works = () => {
                 Amazon Clone
               </span>
               <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://epemba1.github.io/Amazon-Clone/javascript-amazon-project-main/amazon.html" target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
