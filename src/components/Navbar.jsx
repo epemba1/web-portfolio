@@ -20,7 +20,7 @@ const Navbar = () => {
   const socialIcons = [
     { label: 'Linkedin', link: 'https://www.linkedin.com/in/eric-pemba-9a238b216', component: <FaLinkedin size={30} />, bgColor: 'bg-blue-600' },
     { label: 'Github', link: 'https://github.com/epemba1', component: <FaGithub size={30} />, bgColor: 'bg-[#333333]' },
-    { label: 'Resume', link: './assets/CV_Développeur_Web_Eric.pdf', component: <BsPersonFill size={30} />, bgColor: 'bg-[#6fc2b0]' },
+    { label: 'Resume', link: '../assets/CV_Développeur_Web_Eric.pdf', component: <BsPersonFill size={30} />, bgColor: 'bg-[#6fc2b0]' },
     { label: 'Twitter', link: '/', component: <FaTwitter size={30} />, bgColor: 'bg-[#1DA1F2]' },
   ];
 
