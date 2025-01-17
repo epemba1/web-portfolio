@@ -27,12 +27,12 @@ const Works = () => {
                 YouTube Clone
               </span>
               <div className='pt-8 text-center '>
-                <a href="https://epemba1.github.io/" target="_blank" rel="noopener noreferrer">
+                <a href="https://epemba1.github.io/youtube-clone-tailwind/public/index.html" target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href="https://epemba1.github.io/youtube-clone-tailwind/public/index.html" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/epemba1/web-portfolio" target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
