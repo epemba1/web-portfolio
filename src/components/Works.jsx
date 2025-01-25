@@ -3,6 +3,8 @@ import React from 'react';
 import youtube from '../assets/youtube.jpg';
 import amazon from '../assets/amazon.jpg';
 import game from '../assets/game.jpg';
+import progress from '../assets/progress.png';
+
 
 
 const Works = () => {
@@ -89,13 +91,13 @@ const Works = () => {
             </div>
           </div>
 
-          <div style={{ backgroundImage: `url(${youtube})` }}
+          <div style={{ backgroundImage: `url(${progress})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                YouTube Clone
+                Landing Page
               </span>
               <div className='pt-8 text-center '>
                 <a href="https://epemba1.github.io/youtube-clone-tailwind/public/index.html" target="_blank" rel="noopener noreferrer">
