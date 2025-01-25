@@ -92,7 +92,7 @@ const Works = () => {
           </div>
 
           <div style={{ backgroundImage: `url(${progress})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+            className='shadow-lg shadow-[#040c16] group container bg-white rounded-md flex justify-center items-center mx-auto content-div'>
 
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
