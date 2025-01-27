@@ -105,7 +105,7 @@ const Works = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/epemba1/web-portfolio" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/epemba1/bootstrap-practice" target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
